@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="tbInput.Text" xml:space="preserve">
+    <value>Il prezzo del grano? Come trent’anni fa, 14 euro al quintale. Ma il consumatore non se ne accorge, anzi: il pane costa il 1450% in più, insomma ci vogliono trenta chili di grano per arrivare alla quotazione di un chilo di pane. Questa la situazione denunciata ieri in Coldiretti Alessandria, dal presidente provinciale Roberto Paravidino: «Nonostante la buona annata, con qualità e rese maggiori del 2015, i prezzi spuntati dai produttori non coprono più i costi e spingono alla chiusura delle aziende agricole». Il dossier lo porta martedì a Roma, alla Coldiretti nazionale, dove si decideranno azioni di protesta e pressione come quelle sul prezzo del latte. La «battaglia del grano» Coldiretti ha deciso di iniziarla qui perché quella di Alessandria è, insieme a Bologna, la provincia con la maggior produzione italiana di grano tenero (pane e biscotti). Se ne coltivano 33 mila ettari e poiché la resa 2016 si dovrebbe attestare sui 65/70 quintali a ettaro (contro i 50 del 2015) scorso, si superano i 2 milioni di quintali. A livello nazionale gli ettari coltivati sono 600 mila per 30 milioni di quintali. Se invece si passa al grano duro, quello per la pasta, coltivato soprattutto nelle regioni meridionali, gli ettari sono 1,3 milioni e i quintali 49 milioni. Più controlli nei porti Tanti? No, pochi se si pensa che importiamo 23 milioni di quintali di grano duro e ben 48 di quello tenero: gli arrivi dall’Ucraina sono quadruplicati, raddoppiati dalla Turchia. Del resto la pasta è la terza voce del nostro export commerciale (vale 2,4 miliardi di euro all’anno), mentre di prodotti da forno ne esportiamo per 1,7 miliardi. A fronte di tutte queste cifre da capogiro e i crescita percentuale, resta quella misera del prezzo pagato ai coltivatori, che fra l’altro è crollato nell’ultimo periodo del 26%. «Va bene la globalizzazione - dice Paravidino - ma qui ci confrontiamo con concorrenti che non hanno i nostri obblighi fiscali e soprattutto sanitari». Sì, ci sono controlli campione nei porti, ma - lascia capire - non è che facciano da seria barriera. Il ruolo della speculazione E poi la speculazione: il grano si può stoccare anche per due o tre anni e quindi immetterlo sui mercati a seconda delle quotazioni. Un giochetto che riesce molto bene alle «5 sorelle» dei cereali (il colosso Usa, Adm; la Cargill di Minneapolis; i franco-statunitensi della Louis Dreyfus; gli argentini della Bunge Y Borne e gli aggressivi svizzeri della Glencore) con speculazioni finanziarie che rischiano di mettere in ginocchio l’agricoltura «reale». Che si mette nel piatto? C’è anche un problema di tracciabilità: «Il consumatore deve poter scegliere - dice Paravidino - per questo chiediamo, oltre al rafforzamento dei controlli sul grano importato, anche l’etichettatura trasparente per i prodotti da forno, pane e pasta». Quanti vedono il simbolo del tricolore e pensano di mangiare «italiano», quando invece la farina arriva magari da Kiev?» Blocco delle quotazioni Anche Confagricoltura è pronta a scendere in campo. Il presidente Luca Brondello di Brondelli annuncia per domani il blocco delle quotazioni alla Borsa grani di Alessandria: «Sono valori derivati dalla media di quelle di Milano, il martedì, e Bologna, il giovedì. Tolto ovviamente il trasporto. L’iniziativa vuole dare un segnale ai mercati sulla gravità della situazione. Così non si va più avanti». L’aria è frizzante alle sei del mattino. Anche in piena estate. E a Catherine Bertone quella sensazione di freschezza regala solo libertà. E gioia. La corsa per lei è vita. Roma, il giorno prima che il Coni approvasse la lista proposta dalla Federazione Italiana di Atletica Leggera. Bertone non sapeva ancora se sarebbe stata o meno per la prima volta nella vita un’atleta olimpica. Eppure si è alzata all’alba, ha indossato le scarpette ed è andata ad allenarsi. «Il mio lavoro e la mia famiglia. Sono questi due fattori che mi ridimensionano l’esistenza, che mi fanno capire che la corsa è solo una delle tante ragioni della mia vita. Andrò alle Olimpiadi a correre la maratona ed è un sogno che si avvera. Ma lo capisco più dalle emozioni che mi trasmettono tutte le persone che mi incontrano che da quelle che, per ora, riesco a provare». D’altronde la corsa ce l’ha nel sangue sin da quando correva dietro una palla da bimba: «Solo perché mi piaceva correre, mica giocare a calcio». Quarantaquattro anni, dirigente medico pediatra all’ospedale Beauregard di Aosta; un marito, Gabriele Beltrami, che corre come lei e due figlie, Corinne di 10 anni ed Emilie di 8, Bertone è un mix di caratteri forti. Quello sincero e caparbio della madre bretone e quello «cocciuto» - dice lei - del padre piemontese. Che dopo aver fatto vivere la piccola Catherine per otto anni a Belo Horizonte in Brasile - dove lavorava come dirigente per il gruppo Fiat - l’ha catapultata a Torino. «Sono andata a scuola un anno in anticipo - racconta - ed abitando in centro città non potevo correre più di tanto». Per farlo ha dovuto aspettare il trasferimento del padre a Rivoli. E la Sisport. Ma la pacchia è durata solo gli anni del liceo. Poi, una volta all’università, sotto con gli studi. «Correvo, sì, ma solo per scaricare la tensione delle ore passate sui banchi». A 22 anni corre, insieme con il fratello Silvio, la prima maratona e la chiude in tre ore e 34’. Prima che capisca che nella maratona può avere dei numeri deve laurearsi, passare a Parigi un anno e mezzo tra specializzazione e inizio del lavoro, rientrare in Italia e vincere un concorso all’ospedale di Biella. Dove conosce il futuro marito. Stessa passione per la corsa e con un lavoro sicuro Catherine Bertone può iniziare a volare. «Se c’è una ricetta? Ci vuole solo un’ottima organizzazione in famiglia, un compagno che condivide tutto con te e un po’ di talento. Quello me l’hanno dato i genitori, il resto ce l’abbiamo messo noi». E se avesse sempre pensato a fare solo l’atleta? «Zero rimpianti, non se ne parla. Sono troppo contenta di avere una vita dove sono medico, mamma, moglie e atleta. Sono felice così». I tecnici della sua squadra hanno cominciato a esserlo, tempi alla mano, qualche anno fa. Nel 2013 scende a due ore e 34’ e a inizio 2016 ha la grande possibilità: inseguire il tempo che può valere la chiamata per Rio. Una non professionista in mezzo a chi gareggia per vivere. Ci credono solo lei, Gabriele Beltrami, il suo tecnico Roberto Rastello e la famiglia Ottoz, dove corre sotto la bandiera dell’Atletica Sandro Calvesi. A Rotterdam chiude in due ore 30’19”. È il «pass» che vale la chiamata per Rio, rimasta in bilico sino a tre giorni fa. «Sono irascibile - dice - e dico sempre quello che penso nel momento sbagliato». Un valore. Che la figlia Emilie ha già imparato: «Mamma, starai via 10 giorni da casa. Come faccio?». In ospedale ad Aosta è già scattata la festa nella prima notte di turno di Catherine. «Sarà bello esserci. Vado con lo spirito decoubertiano. Ma sapete una cosa? Mi godo già gli allenamenti di prima mattina, il tempo passato con le mie figlie subito dopo e con mio marito. Perché questa Olimpiade è di tutta la mia famiglia».
+</value>
+  </data>
+</root>

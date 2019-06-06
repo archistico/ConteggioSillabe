@@ -1,0 +1,9 @@
+D:\Programmazione\00Github\ConteggioSillabe\ConteggioSillabe\bin\Debug\ConteggioSillabe.exe.config
+D:\Programmazione\00Github\ConteggioSillabe\ConteggioSillabe\bin\Debug\ConteggioSillabe.exe
+D:\Programmazione\00Github\ConteggioSillabe\ConteggioSillabe\bin\Debug\ConteggioSillabe.pdb
+D:\Programmazione\00Github\ConteggioSillabe\ConteggioSillabe\obj\Debug\ConteggioSillabe.csprojResolveAssemblyReference.cache
+D:\Programmazione\00Github\ConteggioSillabe\ConteggioSillabe\obj\Debug\ConteggioSillabe.frmPrincipale.resources
+D:\Programmazione\00Github\ConteggioSillabe\ConteggioSillabe\obj\Debug\ConteggioSillabe.Properties.Resources.resources
+D:\Programmazione\00Github\ConteggioSillabe\ConteggioSillabe\obj\Debug\ConteggioSillabe.csproj.GenerateResource.Cache
+D:\Programmazione\00Github\ConteggioSillabe\ConteggioSillabe\obj\Debug\ConteggioSillabe.exe
+D:\Programmazione\00Github\ConteggioSillabe\ConteggioSillabe\obj\Debug\ConteggioSillabe.pdb

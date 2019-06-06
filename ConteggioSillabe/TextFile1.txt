@@ -1,0 +1,197 @@
+﻿Impieghi pratici della sillabazione
+
+La sillabazione è utilizzata nella scrittura e nella stampa quando, dovendo andare a capo alla fine di una riga, è necessario spezzare una parola per mancanza di spazio. In tali casi infatti l'ortografia prevede che la parola sia spezzata solo tra una sillaba e l'altra.
+Norme che regolano la sillabazione nella lingua italiana
+
+Di seguito sono riportate le norme che regolano la sillabazione nella lingua italiana completate da alcune convenzioni in parte arbitrarie.
+
+    La sillaba italiana contiene sempre almeno una vocale-nucleo (nelle parole straniere che non contengono vocali, il ruolo di nucleo è spesso svolto da r oppure l).
+    Se la parola è formata secondo l'ordine CVCV, ossia consonante-vocale-consonante-vocale, la sillaba inizia con la consonante e finisce con la vocale seguente (CV). Esempi: te-ne-re, la-vo-ro.
+    La prima vocale di una parola fa sillaba a sé. Esempi: u-no, E-va, a-la, I-da. Fanno eccezione le prime vocali seguite da una doppia consonante divisibile. Es. "asso" = as-so.
+    I gruppi di due consonanti possono essere separati o restare uniti a seconda del caso.[1]
+        Vanno separati i gruppi consonantici formati dalle doppie (tt, ss, eccetera). Avremo ad esempio tet-to, pas-so. Similmente, si divide anche il gruppo cq: ac-qua.
+        Restano invece insieme gli altri gruppi di consonanti che producono un suono unico, come gl+vocale oppure ch e gn: a-glio, po-che, la-gna. Anche la s impura resta insieme alla consonante che la segue: re-spi-ro, pre-sto, pe-sca, a-scia.
+        Una sillaba deve essere formata in modo che una parola in italiano possa cominciare con essa. Dividendo in sillabe la parola ampio, teniamo conto del fatto che nessuna parola italiana potrebbe iniziare con mp. Quindi le due consonanti vanno separate: am-pio. Similmente, una parola italiana non comincerà mai per lt oppure lb: per questo, separando le due consonanti, avremo mol-to, al-bum. In sintesi, l, r, m e n vanno separate dalla consonante che le segue (al-ga, ar-ma, am-bra, an-ta).
+        Viceversa, un gruppo consonantico che potrebbe trovarsi all'inizio di parola va tenuto insieme. Ad esempio, il gruppo pr può introdurre un vocabolo italiano come prendere; le due consonanti resteranno quindi insieme: a-pria-mo. Similmente avremo: o-stri-ca, o-cra: infatti, str e cr possono occorrere all'inizio di parola.
+    I gruppi vocalici devono essere tenuti insieme oppure divisi a seconda del caso, dato che possono produrre una sola emissione di fiato oppure generarne due distinte.[2] Si osservino le differenze tra le due serie di esempi:
+        Vanno tenute insieme le vocali che formano un dittongo: Mà-rio, pàu-sa, qui, piò-ve.
+        Vanno però separate le vocali che compongono lo iato: Ma-rì-a, pa-ù-ra, cu-i, A-ò-sta, pì-o. Per stabilire la distribuzione è quindi di prima importanza stabilire su quale vocale la parola è accentata, perché sarà la vocale accentata a costituire il nucleo della sillaba.
+    L'etimo della parola, secondo la maggioranza degli autori, non conta: nella parola subacqueo, sub- andrebbe dunque diviso: su-bac-queo (Garzanti)[3] o, forse, su-bac-que-o (De Mauro).[4]
+    Per quanto riguarda la divisione in sillabe di sintagmi con apostrofo (dell'olio, all'amico, dall'esodo), le fonti non concordano affatto. Le varie soluzioni (ad esempio al-l'amico; all'-amico) sono giudicate diversamente dai vari autori. Alcuni sostenevano, soprattutto in passato, che fosse opportuno reintegrare la vocale caduta (allo - amico). Ultimamente, pare riaffermarsi una vecchia norma secondo la quale sarebbe lecito andare a capo dopo l'apostrofo, dunque scrivere all'-amico,[5][6] una soluzione che era senz'altro malvista fino a non molto tempo fa.[7] Nonostante la lacuna normativa che si è venuta a formare, nulla vieta di dividere la parola che si trova immediatamente dopo l'apostrofo (all'a-mico).
+
+
+In fonetica, un dittongo (greco δίφθογγος, "díphthongos", "con due suoni") è una combinazione di due vocali costituita da un rapido spostamento da un vocoide a un altro, spesso interpretato da chi ascolta come una vocale unica, cioè un singolo fonema vocalico. Mentre i vocoidi semplici o monottonghi sono descritti come foni statici, i dittonghi presuppongono uno spostamento della lingua.
+I monottonghi sono rappresentati in IPA da un simbolo unico, per esempio le due a dell'italiano pasta [ˈpasta]. Un dittongo può essere considerato una vocale lunga la cui articolazione non è stabile ma dinamica: per esempio, in inglese britannico grass [ˈgɹɑːs] ha un suono stabile e prolungato, invece same [ˈseɪm] ha un suono modulato: questo viene considerato un dittongo e trascritto con due simboli, il primo dei quali rappresenta la posizione di partenza del dorso della lingua e il secondo quella d'arrivo. Non tutti i fonetisti sono d'accordo su quale sia la posizione di partenza e d'arrivo di un dittongo. Per esempio John Wells usa i simboli [ɔɪ] per il dittongo dell'inglese boy mentre Luciano Canepari usa invece i simboli [ɔɘ], che considera più vicini alla realtà fonetica.
+
+Tipi di dittongo
+
+I dittonghi sono solitamente accentati sul primo elemento (cosiddetti dittonghi discendenti) e possono dividersi in:
+
+    dittonghi di chiusura, con il secondo vocoide più alto del primo;
+    dittonghi di apertura, con il secondo vocoide più basso del primo;
+    dittonghi di centratura, con il primo elemento più periferico e il secondo più centralizzato.
+
+Esistono inoltre i cosiddetti dittonghi ascendenti, frequenti nelle lingue romanze (italiano, francese, spagnolo, portoghese). Questi sono probabilmente meglio analizzabili come una sequenza di un contoide approssimante e un vocoide.
+
+In molte lingue i dittonghi sono monofonemici, vale a dire che contano come una vocale lunga qualsiasi: è il caso dell'inglese e del tedesco, ma anche del latino classico, del greco attico e del sanscrito. In questo caso si parla di dittongo fonologico. Questo non impedisce ovviamente che in queste lingue si possano avere altre sequenze vocali (bifonemiche), che possono appartenere anche alla stessa sillaba fonica.
+
+Infine, alcune lingue e dialetti oppongono distintivamente dittonghi brevi a dittonghi lunghi e dittonghi orali a dittonghi nasali.
+Il dittongo nella lingua italiana
+Regola grammaticale tradizionale
+
+Secondo la grammatica tradizionale, in italiano, il dittongo si ha:
+
+    con le vocali /i/ e /u/ ("vocali deboli" o, meglio, alte) in posizione 'atona' (senza accento tonico) affiancate a qualsiasi altra vocale in posizione tonica;
+    con le vocali /i/ e /u/, affiancate fra di loro, nel qual caso una delle due può portare l'accento tonico.
+
+I dittonghi discendenti ("veri dittonghi") possibili sono quindi:
+
+    /ai/ come in avrai
+    /ei/ come in dei (preposizione)
+    /ɛi/ come in direi
+    /oi/ come in voi
+    /ɔi/ come in poi
+    /au/ come in pausa
+    /eu/ come in Europa
+    /ɛu/ come in feudo
+
+I dittonghi ascendenti possibili sono:
+
+    /ja/ come in piano
+    /je/ come in ateniese
+    /jɛ/ come in biella
+    /jo/ come in fiore
+    /jɔ/ come in piove
+    /ju/ come in più
+    /wa/ come in guado
+    /we/ come in quello
+    /wɛ/ come in guerra
+    /wi/ come in qui
+    /wo/ come in liquore
+    /wɔ/ come in uomo
+
+Le altre combinazioni (compresa /ii/) sono invece considerate iati dai grammatici. Nella metrica poetica invece, ogni combinazione di due vocali è considerata dittongo, a meno che il poeta non ponga la dieresi sulla prima vocale grafica.
+
+La i nei digrammi ci e gi se seguita da una vocale differente da i e e (i fonemi /i, e, ɛ/) rappresenta un semplice segno grafico e non costituisce quindi fonema a sé stante. In alcuni casi come cielo e scienza la i è seguita da una e ed è quindi un segno grafico che non va pronunciato.
+
+Iato
+Da Wikipedia, l'enciclopedia libera.
+
+Con il termine iato (dal latino hiatus, "apertura") si indica un fenomeno linguistico che consiste nel dividere tra due sillabe due vocali (o meglio: due vocoidi) che altrimenti farebbero parte della stessa sillaba, vocali quindi che vengono accostate e pronunciate con due emissioni di voce.
+
+Indice
+
+    1 Pronuncia
+    2 Tipi di iato in italiano
+        2.1 Nessi vocalici "forti"
+        2.2 Nessi vocalici con la prima vocale ("debole") accentata
+        2.3 Nessi vocalici con l'accento sulla seconda vocale
+    3 Note
+    4 Voci correlate
+    5 Altri progetti
+
+Pronuncia
+
+La pronuncia tradizionale di "iato" è /i'ato/, trisillabo (i-à-to)[1], ma la variante bisillaba è ammessa. Ugo Foscolo scriveva "il iato", Giosuè Carducci "gli iati"[2]. Il latinista Alfonso Traìna è per la pronuncia trisillaba, Luciano Canepàri preferisce quella bisillaba /'jato/[3].
+
+La pronuncia oggi prevalente, lo iato /lo'jato/, non contiene iato bensì un suo opposto, il cosiddetto "dittongo ascendente", la sequenza di una consonante approssimante /j/ e di una vocale /a/, al contrario della pronuncia tradizionale l'iato /li'ato/ che contiene un vero iato.
+Tipi di iato in italiano
+
+Con iato nella grammatica italiana si intendono due fenomeni letteralmente distinti.
+
+In primo luogo, si considera tradizionalmente iato l'incontro di due vocali "forti" /e, ɛ, a, ɔ, o/, con l'accento sulla prima vocale; in secondo luogo si considera iato l'incontro di due vocali "forti" con l'accento sulla seconda, oppure l'incontro di una vocale forte con una debole, la quale è però accentata.
+
+Ogni lista ha delle restrizioni date all'inizio: a parte queste, non tutte le possibilità d'incontro sono attualmente realizzate nella lingua italiana; non si considerano pertinenti le parole dialettali né le interiezioni.
+Nessi vocalici "forti"
+
+    /aa/ come in Nausicaa
+    /ae/ come in aeroplano
+    /ao/ come in aoristo
+
+    /ea/ come in Beatitudine
+    /eo/ come in leonino
+
+    /ɛa/ come in Galilea
+    /ɛe/ come in europee
+    /ɛo/ come in galateo
+
+    /ɔa/ come in Oasi
+    /ɔe/ come in eroe
+    /ɔo/ come in zoo
+
+    /oa/ come in coacervo
+    /oe/ come in coesione
+    /oo/ come in oospermia
+
+Nessi vocalici con la prima vocale ("debole") accentata
+
+    /ia/ come in pia
+    /ie/ come in mie
+    /ii/ come in aprii
+    /io/ come in zio
+
+    /ua/ come in tua
+    /ue/ come in sue
+    /ui/ come in cui
+    /uo/ come in suo
+
+Nessi vocalici con l'accento sulla seconda vocale
+
+    /i'i/ come in piissimo
+    /i'ɛ/ come in cliente
+    /i'a/ come in viaggio (pronuncia toscana)
+    /i'ɔ/ come in piolo
+    /i'u/ come in Friuli
+
+    /e'i/ come in reina
+    /e'e/ come in lineetta
+    /e'a/ come in beato
+    /e'ɔ/ come in beota
+    /e'o/ come in beone
+    /e'u/ come in reuccio
+
+    /a'i/ come in Caino
+    /a'e/ come in paese
+    /a'ɛ/ come in aereo
+    /a'a/ come in Sahara (pronuncia senza [h])
+    /a'ɔ/ come in Aosta
+    /a'o/ come in kaone (particella subatomica)
+    /a'u/ come in paura
+
+    /o'i/ come in Coin
+    /o'e/ come in coeso
+    /o'ɛ/ come in Noè
+    /o'a/ come in coana
+    /o'ɔ/ come in coopero
+    /o'u/ come in noumeno
+
+    /u'i/ come in Luigi
+    /u'ɛ/ come in cruento
+    /u'a/ come in Luana
+    /u'ɔ/ come in fluoro
+
+Questa definizione di iato è però contestata da Piero Fiorelli[4] e da Luciano Canepari[5], che ritengono che solo l'ultima lista è da considerarsi contenente veri iati: la prima e la seconda conterrebbero dittonghi a tutti gli effetti; anche nella metrica poetica, in effetti, i nessi vocalici "forti" (con l'accento sulla prima vocale) vengono solitamente considerati dittonghi, a meno che il poeta non usi la dieresi, che talvolta viene posta tipograficamente sulla prima vocale grafica.
+
+
+
+· una vocale, quando è all’inizio di parola ed è seguita da una sola consonante, fa sillaba a sé: a-mi-co;
+
+· le vocali di un dittongo o di un trittongo non possono mai essere divisi e, quindi, formano una sola sillaba: a-iuo-la, pie-de.
+
+Erroneamente alcuni gruppi di vocali possono essere presi per dittonghi. Per non sbagliare è importante sapere che non forma dittongo il gruppo costituito dalla vocale i seguita da un’altra vocale nelle parole composte in cui la i appartiene alla prima parte del composto e le altre vocali alla seconda parte: ri-u-sci-re, chi-un-que. Allo stesso modo non forma dittongo e quindi è separabile dal resto la i seguita da altre vocali nelle parole derivate, se la forma primitiva della parola era accentuata sulla i e perciò non poteva formare dittongo: spi-a-re (da spì-a);
+
+· due vocali in iato possono essere divise: ma-e-stro, e-ro-e;
+
+· una consonante semplice posta tra due vocali o seguita da vocale forma sempre sillaba con la vocale che segue: pa-lo, a-mo-re, fi-lo-so-fo;
+
+· le consonanti doppie si dividono sempre fra due sillabe, cioè una sta con la vocale che precede e l’altra con quella che segue: bal-lo, car-ret-tie-re.
+
+· i gruppi di due o più consonanti diverse tra loro e consecutive formano sillaba con la vocale che le segue se costituiscono un gruppo che può trovarsi all’inizio di una parola: ca-pri-no, de-sti-no, di-ma-gri-re (in italiano esistono parole che iniziano con pri-, sti-, gri-: primo, stima, grigio);
+
+· i gruppi di due o più consonanti diverse tra loro e consecutive si dividono in modo che la prima consonante del gruppo vada con la vocale precedente e l’altra o le altre con la vocale della sillaba che segue se non costituiscono un gruppo che può trovarsi all’inizio di una parola. Ciò succede, in particolare, con i gruppi consonantici bd, bs, cm, cn, ct, dm, gm, lm, mb, mp, nc, nt ecc.: bac-te-rio, im-por-tan-za, dif-te-ri-te, com-bi-na-zio-ne;
+
+· la s seguita da una o più consonanti (la cosiddetta s preconsonantica) forma sillaba con la vocale che segue: ri-spo-sta, e-sclu-sio-ne;
+
+· le parole composte con i prefissi trans-, tras-, dis-, cis-, in- e simili si possono dividere secondo le regole citate, oppure, specialmente se nella parola i due componenti sono sentiti ancora come distinti, conservando integro il prefisso: così si può sillabare tanto tras-por-ta-re quanto tra-spor-ta-re, tanto dis-per-de-re quanto di-sper-de-re. La tendenza della lingua, tuttavia, è quella di rispettare le regole generali: tra-spor-ta-re, di-sper-de-re, di-spor-si;
+
+· i digrammi e i trigrammi non si dividono mai: in-ge-gno, bi-scia, fi-glia-stro.” 
